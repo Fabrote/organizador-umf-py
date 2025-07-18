@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from UMF import mover_informes  # asumimos que tenés esa función aparte
+from UMF import mover_informes
 
 def ejecutar():
     mover_informes()

@@ -64,4 +64,4 @@ Diseñado para entornos médicos donde los informes deben archivarse automática
 ---
 Fabrizio
 
-Proyecto interno de automatización para flujos de trabajo en Unidad de Medicina Fetal - Sanatorio Britanico.
+Proyecto interno de automatización para flujos de trabajo.

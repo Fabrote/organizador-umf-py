@@ -4,8 +4,8 @@ import shutil
 import re
 
 # Rutas personalizadas
-ruta_informes = r"D:\FABRO\PROYECTOS\INFORMES"
-ruta_pacientes = r"D:\FABRO\PROYECTOS\IMAGENES"
+ruta_informes = r"ruta\a\informes"  
+ruta_pacientes = r"ruta\a\pacientes"  
 
 def extraer_dni_desde_pdf(ruta_pdf):
     try:
